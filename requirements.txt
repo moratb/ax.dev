@@ -1,0 +1,7 @@
+ax-platform>=0.1.14
+psycopg2>=2.8.5
+pandas>=1.1.2
+numpy>=1.19.1
+plotly>=4.9.0
+scikit-learn>=0.23.2
+scipy>=1.5.4
